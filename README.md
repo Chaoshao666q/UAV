@@ -1,4 +1,4 @@
-慢慢写说明，环境交流
+慢慢写说明···
 # amap_load_vue2
 
 ## Project setup
